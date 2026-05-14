@@ -39,4 +39,4 @@ The goal was to build an interactive dashboard that provides a complete overview
 - Enabled quicker decision-making using real-time sales insights
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](https://github.com/aayushianalytics/Sales-Performance-Dashboard/blob/main/BI%20Chocolate%20Sales%20Dashboard.png)
+![Dashboard Preview](https://github.com/aayushianalytics/powerbi-projects/blob/main/Sales-performance-dashboard/BI%20Chocolate%20Sales%20Dashboard.png)
