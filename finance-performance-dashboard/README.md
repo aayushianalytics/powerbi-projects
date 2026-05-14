@@ -39,4 +39,4 @@ The goal was to build a simple and interactive dashboard that gives a complete v
 
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](https://github.com/aayushianalytics/Finance-performance-dashboard/blob/main/BI%20Finance%20Dashboard.png)
+![Dashboard Preview](https://github.com/aayushianalytics/powerbi-projects/blob/main/finance-performance-dashboard/BI%20Finance%20Dashboard.png)
