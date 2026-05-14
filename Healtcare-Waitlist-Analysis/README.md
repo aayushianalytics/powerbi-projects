@@ -40,4 +40,4 @@ The goal was to build an interactive dashboard that provides a complete overview
 
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](https://github.com/aayushianalytics/Healthcare-Waitlist-Analysis-/blob/main/BI%20Healthcare%20Dashboard.png)
+![Dashboard Preview](https://github.com/aayushianalytics/powerbi-projects/blob/main/Healtcare-Waitlist-Analysis/BI%20Healthcare%20Dashboard.png)
